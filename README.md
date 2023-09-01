@@ -4,4 +4,4 @@
 ### XOR Gate
 
 ---
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/NishitMittal2004/TinkerCad_Gates/blob/main/circuit_diagram.png)
